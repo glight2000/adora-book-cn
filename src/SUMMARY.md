@@ -7,6 +7,7 @@
 
 - [安装](getting-started/installation.md)
 - [快速开始](getting-started/quickstart.md)
+- [AI 辅助学习提示词](getting-started/ai-learning-prompt.md)
 
 # 核心概念
 
